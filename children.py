@@ -105,4 +105,3 @@ while True:
                 break
         except ValueError:
             pass
-pickup()
